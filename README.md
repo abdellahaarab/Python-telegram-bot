@@ -22,7 +22,7 @@ Simple Telegram bot (Youtube Downloader whith Python).
 ##  Statistics 📚
 
 ![Python Version](https://img.shields.io/badge/Python-3-dodgerblue?style=for-the-badge&logo=appveyor)
-![Issues](https://img.shields.io/github/issues/abdellahaarab/Youtube-Downloader-Flet-App?style=for-the-badge&logo=appveyor)
+![Issues](https://img.shields.io/github/issues/abdellahaarab/Python-telegram-bot?style=for-the-badge&logo=appveyor)
 ![Forks](https://img.shields.io/github/forks/abdellahaarab/Python-telegram-bot?style=for-the-badge&logo=appveyor)
 ![Stars](https://img.shields.io/github/stars/abdellahaarab/Python-telegram-bot-Flet-App?style=for-the-badge&logo=appveyor)
 ![LICENSE](https://img.shields.io/github/license/abdellahaarab/Python-telegram-bot?style=for-the-badge&logo=appveyor)
